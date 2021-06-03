@@ -10,4 +10,7 @@ describe('The getFullYear function', () => {
         const myBirthday = getLunarAge(1995, 12, 31);
         expect(myBirthday).to.equal(`Your lunar age is 28 years old 🌖`);
     });
+    it('should return the correct age if born on december 31', () => {
+        expect(() => { return getLunarAge(199, 12, 31) }).to.throw('Invalid input, please enter a correct year.');
+    });
 })
