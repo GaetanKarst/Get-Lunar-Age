@@ -1,0 +1,23 @@
+{
+  "name": "get-lunar-year",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaetanKarst/Get-Lunar-Year.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaetanKarst/Get-Lunar-Year/issues"
+  },
+  "homepage": "https://github.com/GaetanKarst/Get-Lunar-Year#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
