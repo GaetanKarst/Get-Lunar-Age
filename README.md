@@ -4,9 +4,9 @@
 
 ### Find out what is your age in the lunar calendar
 
-Did you know that you in some east asian cultures, the age is culturally not calculated the same way as we do in western countries?
+Did you know that, in some east asian cultures, the age is not calculated the same way as we do in western countries?
 
-This npm library will let you know how old you are in these countries.
+This very simple npm library will let you know how old you are in these countries.
 
 ```js
 const { getLunarAge } = require("./getLunarAge");
