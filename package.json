@@ -1,7 +1,7 @@
 {
-  "name": "get-lunar-year",
+  "name": "get-lunar-age",
   "version": "1.0.0",
-  "description": "",
+  "description": "![Test Image 4](assets/chinese-zodiac-main-1517924129.jpeg)",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha tests"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/GaetanKarst/Get-Lunar-Year.git"
   },
-  "author": "",
+  "author": "Gaetan Karst",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GaetanKarst/Get-Lunar-Year/issues"
@@ -18,6 +18,11 @@
   "homepage": "https://github.com/GaetanKarst/Get-Lunar-Year#readme",
   "dependencies": {
     "chai": "^4.3.4",
-    "mocha": "^8.4.0"
-  }
+    "mocha": "^8.4.0",
+    "np": "^7.5.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {}
 }
