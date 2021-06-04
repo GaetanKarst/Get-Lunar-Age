@@ -1,6 +1,6 @@
 {
   "name": "get-lunar-age",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "![Test Image 4](assets/chinese-zodiac-main-1517924129.jpeg)",
   "main": "src/index.js",
   "scripts": {
